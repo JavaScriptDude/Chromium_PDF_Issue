@@ -1,4 +1,6 @@
 ## Chromium PDF Issue
+[UPDATE] - This issue has been resolve: https://bugs.chromium.org/p/chromedriver/issues/detail?id=3517
+
 Test Code to Illustrate Issue with `Page.printToPDF` in Chromium
 
 
